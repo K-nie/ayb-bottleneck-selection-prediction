@@ -1,6 +1,6 @@
 {
   "title": "A recent bottleneck shapes diversity, selection and genomic prediction in African yam bean (Sphenostylis stenocarpa)",
-  "description": "Analysis code and result tables/figures for the demographic-history, selection and genomic-prediction study of the African yam bean DArTseq panel. Covers Stairway Plot demographic reconstruction, the site-frequency spectrum, Tajima's D, integrated haplotype score (iHS), nucleotide diversity versus Watterson's theta, fineSTRUCTURE co-ancestry, per-chromosome LD, machine-learning genomic prediction with SHAP interpretability and multi-task models, the Daetwyler prediction ceiling, and candidate-gene and pathway enrichment for selection signals.",
+  "description": "Analysis code and result tables for the demographic-history, selection and genomic-prediction study of the African yam bean DArTseq panel. Covers Stairway Plot demographic reconstruction, the site-frequency spectrum, Tajima's D, integrated haplotype score (iHS), nucleotide diversity versus Watterson's theta, fineSTRUCTURE co-ancestry, per-chromosome LD, machine-learning genomic prediction with SHAP interpretability and multi-task models, the Daetwyler prediction ceiling, and candidate-gene and pathway enrichment for selection signals.",
   "creators": [
     {
       "name": "Narh-Madey, Benjamin",
