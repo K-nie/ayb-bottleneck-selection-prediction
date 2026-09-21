@@ -1,0 +1,29 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# editor / local config
+.claude/
+.vscode/
+.idea/
+*.swp
+
+# Python / R caches
+__pycache__/
+*.pyc
+*.pyo
+.Rhistory
+.RData
+.Ruserdata
+.ipynb_checkpoints/
+/Rplots.pdf
+
+# environment artefacts
+.conda/
+*.egg-info/
+
+# temp
+*.tmp
+*~
+*.log
+core

@@ -1,0 +1,2 @@
+trait,chr,start,end,gene_id,product,pfam,interpro,roh_panel_frac,n_ihs_outliers_within_100kb
+Tannin,Ss06,9213260,9234215,AYBTSS11_019090,Canalicular multispecific organic anion transporter 1,"PF00664,PF00005","IPR003439,IPR011527,IPR027417",0.43820224719101125,2

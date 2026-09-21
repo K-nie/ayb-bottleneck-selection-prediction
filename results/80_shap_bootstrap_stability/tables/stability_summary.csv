@@ -1,0 +1,6 @@
+,,spearman_full,spearman_full,spearman_full,jaccard_top_k,jaccard_top_k,jaccard_top_k
+,,mean,median,std,mean,median,std
+trait,model,,,,,,
+Insoluble_Oxalate,RandomForest,0.275,0.273,0.051,0.022,0.0,0.055
+Seed_Length,RandomForest,0.305,0.305,0.046,0.039,0.0,0.073
+Seed_Thickness,LightGBM,0.705,0.703,0.027,0.062,0.0,0.086

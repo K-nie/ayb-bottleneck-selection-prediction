@@ -1,0 +1,3 @@
+trait,gene,chr,pos,note,ihs_above2_within_500kb,ihs_snps_within_500kb,ihs_above2_within_1000kb,ihs_snps_within_1000kb,ihs_above2_within_2000kb,ihs_snps_within_2000kb,closest_above2_dist_bp,closest_above2_pos,closest_above2_value
+Soluble_Oxalate,ALMT4_2,Ss10,15394673,A2 four-method consensus locus,0,5,0,9,0,21,,,
+Insoluble_Oxalate,Ss04 MATE cluster,Ss04,67792286,"A2 suggestive locus (single-marker p = 0.18, rank 26)",0,1,0,7,1,11,1286925.0,66505361.0,2.25746

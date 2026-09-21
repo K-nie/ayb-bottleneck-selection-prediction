@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this analysis code or its outputs, please cite this repository and the accompanying manuscript."
+type: software
+title: "A recent bottleneck shapes diversity, selection and genomic prediction in African yam bean (Sphenostylis stenocarpa)"
+authors:
+  - family-names: "Narh-Madey"
+    given-names: "Benjamin"
+    email: "narhmadey@wisc.edu"
+    affiliation: "Department of Genetics, University of Wisconsin-Madison"
+keywords:
+  - "African yam bean"
+  - "Sphenostylis stenocarpa"
+  - "demographic history"
+  - "bottleneck"
+  - "Stairway Plot"
+  - "Tajima's D"
+  - "iHS"
+  - "fineSTRUCTURE"
+  - "genomic prediction"
+  - "machine learning"
+  - "SHAP"
+  - "population genetics"
+license: "MIT"
+repository-code: "https://github.com/K-nie/ayb-bottleneck-selection-prediction"
+url: "https://github.com/K-nie/ayb-bottleneck-selection-prediction"

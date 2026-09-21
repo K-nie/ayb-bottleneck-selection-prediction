@@ -1,0 +1,14 @@
+,Antioxidant,Crude_Protein,Flavonoid,Insoluble_Oxalate,Mass_of_Seeds,Phenol,Seed_Coat_Tannin,Seed_Length,Seed_Thickness,Seed_Width,Soluble_Oxalate,Tannin,Total_Oxalate
+Antioxidant,5,0,0,0,0,0,0,0,0,0,0,0,0
+Crude_Protein,0,5,0,0,0,0,0,0,0,0,0,0,0
+Flavonoid,0,0,5,0,0,0,0,0,0,0,0,0,0
+Insoluble_Oxalate,0,0,0,5,0,0,0,0,0,0,0,0,0
+Mass_of_Seeds,0,0,0,0,5,0,0,0,0,0,0,0,0
+Phenol,0,0,0,0,0,5,0,0,0,0,0,0,0
+Seed_Coat_Tannin,0,0,0,0,0,0,5,0,0,0,0,0,0
+Seed_Length,0,0,0,0,0,0,0,5,0,0,0,0,0
+Seed_Thickness,0,0,0,0,0,0,0,0,5,0,0,0,0
+Seed_Width,0,0,0,0,0,0,0,0,0,5,0,0,0
+Soluble_Oxalate,0,0,0,0,0,0,0,0,0,0,5,0,0
+Tannin,0,0,0,0,0,0,0,0,0,0,0,5,0
+Total_Oxalate,0,0,0,0,0,0,0,0,0,0,0,0,5

@@ -1,0 +1,14 @@
+trait,best_model,shap_rank,gwas_rank,shap_mean_abs
+Tannin,KernelRidge,1388,1161.0,0.0
+Phenol,KernelRidge,1527,50.0,0.0
+Flavonoid,KernelRidge,1336,127.0,0.0
+Antioxidant,RR-BLUP,1433,329.0,0.0
+Seed_Length,RandomForest,337,789.0,0.00046059582425933137
+Seed_Width,KernelRidge,1598,425.0,0.0
+Seed_Thickness,LightGBM,355,504.0,0.0
+Mass_of_Seeds,KernelRidge,1346,336.0,0.0
+Seed_Coat_Tannin,RR-BLUP,60,295.0,0.8117588633748586
+Crude_Protein,MLP,360,1083.0,0.005117904088228534
+Total_Oxalate,ElasticNet,1364,,0.0
+Soluble_Oxalate,RR-BLUP,1371,,0.0
+Insoluble_Oxalate,RandomForest,1603,,0.0

@@ -1,0 +1,14 @@
+trait,best_model,n_shap_top,n_gwas_top,n_intersection,expected_by_chance
+Tannin,KernelRidge,20,30,1,0.36923076923076925
+Phenol,KernelRidge,20,30,0,0.36923076923076925
+Flavonoid,KernelRidge,20,30,2,0.36923076923076925
+Antioxidant,RR-BLUP,20,30,0,0.36923076923076925
+Seed_Length,RandomForest,20,30,9,0.36923076923076925
+Seed_Width,KernelRidge,20,30,1,0.36923076923076925
+Seed_Thickness,LightGBM,20,30,7,0.36923076923076925
+Mass_of_Seeds,KernelRidge,20,30,0,0.36923076923076925
+Seed_Coat_Tannin,RR-BLUP,20,30,0,0.36923076923076925
+Crude_Protein,MLP,20,30,0,0.36923076923076925
+Total_Oxalate,ElasticNet,20,30,1,0.36923076923076925
+Soluble_Oxalate,RR-BLUP,20,30,1,0.36923076923076925
+Insoluble_Oxalate,RandomForest,20,30,6,0.36923076923076925

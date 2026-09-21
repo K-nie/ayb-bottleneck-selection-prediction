@@ -1,0 +1,50 @@
+2026-06-16 01:50:37
+ID: Mass_of_Seeds_SVMrbf
+Tag: Mass_of_Seeds
+Algorithm: SVMrbf
+Trained on classes: [0 1]
+Applied to: ['']
+Number of features: 1625
+Min class size: 15
+CV folds: 5
+Number of balanced datasets: 20
+Grid Search Used: f
+Parameters used:[1.0, 2, 1, 'rbf']
+
+Prediction threshold: 0.01
+
+
+Results from the validation set
+Metric	Mean	SD	SE
+AucROC	0.5	0.0	0.0
+AucPRc	0.5	0.0	0.0
+Accuracy	0.5	0.0	0.0
+F1	0.6666666666666665	1.1102230246251565e-16	2.482534153247273e-17
+Precision	0.5	0.0	0.0
+TPR	1.0	0.0	0.0
+FPR	1.0	0.0	0.0
+FNR	0.0	0.0	0.0
+TP	15.0	0.0	0.0
+TN	0.0	0.0	0.0
+FP	15.0	0.0	0.0
+FN	0.0	0.0	0.0
+
+
+Mean Balanced Confusion Matrix:
+Class	0	1	0	1
+0.0			8.0	7.0
+1.0			3.8	11.2
+
+
+Count and percent of instances of each class (row) predicted as a class (col):
+Class	1	n_total	0_perc	1_perc
+0	78	78	0	1.0
+1	17	17	0	1.0
+
+
+Results from the test set
+test precision	0.500000
+test accuracy	0.500000
+test F1	0.666667
+test AucROC	0.5	0.0	0.0
+test AucPRc	0.07142857142857142	0.0	0.0

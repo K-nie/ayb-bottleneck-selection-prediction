@@ -1,0 +1,50 @@
+2026-06-15 10:48:37
+ID: Tannin_RF
+Tag: Tannin
+Algorithm: RF
+Trained on classes: [0 1]
+Applied to: ['']
+Number of features: 1625
+Min class size: 15
+CV folds: 5
+Number of balanced datasets: 20
+Grid Search Used: f
+Parameters used:[500, 5, 'sqrt']
+
+Prediction threshold: 0.14
+
+
+Results from the validation set
+Metric	Mean	SD	SE
+AucROC	0.42977777777777765	0.14988126988295902	0.03351447080122883
+AucPRc	0.4895325205701918	0.09806126854741685	0.021927166243188613
+Accuracy	0.5	0.0	0.0
+F1	0.6666666666666665	1.1102230246251565e-16	2.482534153247273e-17
+Precision	0.5	0.0	0.0
+TPR	1.0	0.0	0.0
+FPR	1.0	0.0	0.0
+FNR	0.0	0.0	0.0
+TP	15.0	0.0	0.0
+TN	0.0	0.0	0.0
+FP	15.0	0.0	0.0
+FN	0.0	0.0	0.0
+
+
+Mean Balanced Confusion Matrix:
+Class	0	1	0	1
+0.0			6.8	8.2
+1.0			8.2	6.8
+
+
+Count and percent of instances of each class (row) predicted as a class (col):
+Class	1	n_total	0_perc	1_perc
+0	76	76	0	1.0
+1	17	17	0	1.0
+
+
+Results from the test set
+test precision	0.500000
+test accuracy	0.500000
+test F1	0.666667
+test AucROC	0.7615384615384616	0.27724340447600154	0.061993509872180885
+test AucPRc	0.5424621212121212	0.39108546215509	0.08744936783907026

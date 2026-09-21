@@ -1,0 +1,24 @@
+#input setting
+popid: AYB_95
+nseq: 190
+L: 649800000
+whether_folded: true
+SFS: 0 0 1 0 2 2 3 10 10 25 47 39 50 33 43 39 26 23 22 24 22 14 36 23 19 19 23 10 15 17 19 14 16 18 15 15 18 13 18 12 11 19 15 11 16 13 21 9 13 14 16 15 8 20 9 9 12 17 11 14 17 19 13 16 11 9 18 16 11 17 11 12 19 17 12 7 11 11 6 14 13 19 12 11 19 9 6 10 13 10 9 14 7 18 8
+#smallest_size_of_SFS_bin_used_for_estimation: 1
+#largest_size_of_SFS_bin_used_for_estimation: 95
+pct_training: 0.67
+nrand: 47 94 141 188
+project_dir: /Users/black_einstein/Desktop/Other_Projects/Prof Adewale_s Data/results/33_stairway/data/stairway_run
+stairway_plot_dir: /Users/black_einstein/Desktop/Other_Projects/Prof Adewale_s Data/refs/tools/stairway_plot_v2.1.2/stairway_plot_es
+ninput: 200
+#random_seed: 6
+#output setting
+mu: 7e-09
+year_per_generation: 1.0
+#plot setting
+plot_title: AYB_95
+xrange: 0.1,10000
+yrange: 0,0
+xspacing: 2
+yspacing: 2
+fontsize: 12

@@ -1,0 +1,4 @@
+start_markers	3204
+start_samples	105
+sample_callrate_>=_0.9	95
+marker_callrate_>=_0.9_and_maf_>=_0.05	1625

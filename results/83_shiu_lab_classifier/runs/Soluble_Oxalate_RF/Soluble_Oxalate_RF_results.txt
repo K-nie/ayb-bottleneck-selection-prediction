@@ -1,0 +1,50 @@
+2026-06-15 12:26:44
+ID: Soluble_Oxalate_RF
+Tag: Soluble_Oxalate
+Algorithm: RF
+Trained on classes: [0 1]
+Applied to: ['']
+Number of features: 1625
+Min class size: 7
+CV folds: 5
+Number of balanced datasets: 20
+Grid Search Used: f
+Parameters used:[500, 5, 'sqrt']
+
+Prediction threshold: 0.28
+
+
+Results from the validation set
+Metric	Mean	SD	SE
+AucROC	0.5494897959183673	0.17984313934327967	0.04021414848585402
+AucPRc	0.6306672494172495	0.15507927940952704	0.03467678106613859
+Accuracy	0.5071428571428571	0.02142857142857142	0.004791574237499547
+F1	0.6699999999999998	0.009999999999999998	0.0022360679774997894
+Precision	0.5038461538461538	0.01153846153846153	0.0025800784355766784
+TPR	1.0	0.0	0.0
+FPR	0.9857142857142858	0.042857142857142864	0.0095831484749991
+FNR	0.0	0.0	0.0
+TP	7.0	0.0	0.0
+TN	0.1	0.30000000000000004	0.0670820393249937
+FP	6.9	0.3	0.06708203932499368
+FN	0.0	0.0	0.0
+
+
+Mean Balanced Confusion Matrix:
+Class	0	1	0	1
+0.0			3.7	3.3
+1.0			3.45	3.55
+
+
+Count and percent of instances of each class (row) predicted as a class (col):
+Class	1	n_total	0_perc	1_perc
+0	32	32	0	1.0
+1	9	9	0	1.0
+
+
+Results from the test set
+test precision	0.500000
+test accuracy	0.500000
+test F1	0.666667
+test AucROC	0.7	0.25603819159562025	0.05725188012439222
+test AucPRc	0.6333333333333333	0.27688746209726917	0.061913918736689035

@@ -1,0 +1,51 @@
+{
+  "title": "A recent bottleneck shapes diversity, selection and genomic prediction in African yam bean (Sphenostylis stenocarpa)",
+  "description": "Analysis code and result tables/figures for the demographic-history, selection and genomic-prediction study of the African yam bean DArTseq panel. Covers Stairway Plot demographic reconstruction, the site-frequency spectrum, Tajima's D, integrated haplotype score (iHS), nucleotide diversity versus Watterson's theta, fineSTRUCTURE co-ancestry, per-chromosome LD, machine-learning genomic prediction with SHAP interpretability and multi-task models, the Daetwyler prediction ceiling, and candidate-gene and pathway enrichment for selection signals.",
+  "creators": [
+    {
+      "name": "Narh-Madey, Benjamin",
+      "affiliation": "Department of Genetics, University of Wisconsin-Madison",
+      "orcid": ""
+    }
+  ],
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "African yam bean",
+    "Sphenostylis stenocarpa",
+    "demographic history",
+    "bottleneck",
+    "Stairway Plot",
+    "Tajima's D",
+    "iHS",
+    "fineSTRUCTURE",
+    "genomic prediction",
+    "machine learning",
+    "SHAP",
+    "population genetics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/K-nie/ayb-bottleneck-selection-prediction",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "10.5281/zenodo.13853757",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.20348832",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.ebi.ac.uk/ena/browser/view/PRJEB57813",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Author under .creators is the code-side author. Manuscript co-authorship (Prof. B.D. Adewale and collaborators) is recorded on manuscript publication."
+}
